@@ -1,0 +1,3 @@
+dom_id: '#swagger-ui'
+url: './petstore_swagger.json'
+requestSnippetsEnabled: true
